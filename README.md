@@ -9,3 +9,15 @@ Objectif : Créer des outils pour les #GiletsJaunes, pour le RIC (Référendum d
 Je compte sur toutes les bonnes volontés.
 
 Merci.
+
+Hello everyone,
+
+You will find on this repository several tools, tutorials, prototypes to master the development Node.js in the areas of Crypto-currencies, Blockchain, AI ... and soon for Android and the Internet of Things (iOt)
+
+What is delivered is the result of several months of work. Please respect it and do not use it for private or commercial purposes.
+
+Objective: To create tools for the #GiletsJaunes, for the RIC (Citizen Initiative Referendum) among others, but also create the YellowCoin (Cryptocurrency exchange of goods and services).
+
+I count on all the good wills.
+
+Thank you.
